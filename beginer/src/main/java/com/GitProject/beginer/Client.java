@@ -9,6 +9,7 @@ public class Client {
 		System.out.println("test2");
 		System.out.println("test3 ");
 		System.out.println("pulled into different workspace and edited thid line");
+		System.out.println("chnages applied only for sub branch");
 	}
 
 }
